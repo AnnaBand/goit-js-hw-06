@@ -1,1 +1,1 @@
-https://krollew23.github.io/goit-js-hw-06/
+https://AnnaBand.github.io/goit-js-hw-06/
